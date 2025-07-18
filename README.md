@@ -16,8 +16,8 @@
 const cuong = {
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   education: "IT Student at HCMUTE",
-  currentFocus: ["System Design", "Microservices", "Cloud Architecture"],
-  askMeAbout: ["Web Development", "Backend Engineering", "Database Design"],
+  currentFocus: ["System Design", "Monolitith"],
+  askMeAbout: ["Web Development", "Backend Engineering", "Frontend Engineering"],
   funFact: "I debug with console.log and I'm proud of it! 🐛",
   currentlyLearning: "Advanced Node.js & DevOps",
   lookingFor: "Internship opportunities in web development"
